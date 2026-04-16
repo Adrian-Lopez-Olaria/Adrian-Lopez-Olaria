@@ -28,10 +28,10 @@
 > Security:       Wazuh | Malware Analysis | Hardening
 > Networking:     VLANs | VPN (WireGuard / OpenVPN)
 > Firewalls:      pfSense | MikroTik
-> Systems:        Synology | Windows Server
+> Systems:        Synology | Windows Server | Linux | Debian
 > Backup:         Acronis | Recovery | Cloning
-> Virtualization: VMware
-> Languages:      Python | Go | PHP
+> Virtualization: VMware | Proxmox
+> Languages:      Python | Go | PHP | JS | Java
 ```
 
 ---
