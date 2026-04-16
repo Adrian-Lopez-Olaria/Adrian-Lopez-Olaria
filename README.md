@@ -16,8 +16,8 @@
 
 ## 🧠 About Me
 
-🔹 Systems technician focused on **offensive & defensive cybersecurity**
-🔹 Building **real labs simulating enterprise environments**
+🔹 Cybersecurity and systems technician focused on **offensive & defensive security**  
+🔹 Building **real labs simulating enterprise environments**  
 🔹 Passionate about **breaking systems to understand how to secure them**
 
 ---
