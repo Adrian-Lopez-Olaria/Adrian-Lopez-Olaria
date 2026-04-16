@@ -1,6 +1,6 @@
 # 👋 Hola, soy Adrián López
 
-💻 Técnico de Sistemas | 🔐 Ciberseguridad | 🌐 Redes  
+💻 Técnico de 🔐 Ciberseguridad | Sistemas | 🌐 Redes  
 Apasionado por la seguridad, la infraestructura y la investigación en entornos reales.
 
 ---
