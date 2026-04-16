@@ -1,172 +1,132 @@
-# 👋 Hola, soy Adrián López
+<h1 align="center">👨‍💻 Adrián López</h1>
 
-💻 Técnico de 🔐 Ciberseguridad | Sistemas | 🌐 Redes  
-Apasionado por la seguridad, la infraestructura y la investigación en entornos reales.
+<p align="center">
+  <b>🔐 Cybersecurity | 💻 Systems | 🌐 Networking</b><br>
+  <i>Building, breaking and securing real-world environments</i>
+</p>
 
----
-
-## 🚀 Sobre mí
-
-Soy técnico de sistemas con enfoque en ciberseguridad ofensiva y defensiva.
-
-Trabajo creando **laboratorios en entornos controlados**, donde simulo ataques reales y desarrollo medidas de defensa para comprender mejor las amenazas actuales.
-
----
-
-## 🧰 Tecnologías
-
-- 🔐 Seguridad: Wazuh, análisis de malware, hardening
-- 🔥 Firewalls: pfSense, MikroTik
-- 🌐 Redes: VLANs, VPN (WireGuard / OpenVPN)
-- 📡 SIEM: monitorización + alertas (Telegram / Email)
-- 💾 Backup: Acronis, recuperación y clonado
-- ☁️ Sistemas: Synology, Windows Server
-- 🧪 Virtualización: VMware
-- 🐍 Python | 🐹 Go | 🐘 PHP
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Wazuh-blue?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Firewall-pfSense-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SIEM-Active-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Labs-Real%20Environment-black?style=for-the-badge">
+</p>
 
 ---
 
-## 🧪 Laboratorio personal
+## 🧠 About Me
 
-Infraestructura simulada de entorno empresarial:
-
-- 🔥 Doble firewall (pfSense + MikroTik)
-- 🌐 Segmentación de red + DMZ
-- 🔐 VPN entre sedes
-- 📡 SIEM con Wazuh
-- 📢 Alertas automatizadas
-- 🧨 Simulación de ataques controlados
+🔹 Systems technician focused on **offensive & defensive cybersecurity**
+🔹 Building **real labs simulating enterprise environments**
+🔹 Passionate about **breaking systems to understand how to secure them**
 
 ---
 
-## 📂 Proyectos destacados
+## ⚡ Core Skills
+
+```bash
+> Security:       Wazuh | Malware Analysis | Hardening
+> Networking:     VLANs | VPN (WireGuard / OpenVPN)
+> Firewalls:      pfSense | MikroTik
+> Systems:        Synology | Windows Server
+> Backup:         Acronis | Recovery | Cloning
+> Virtualization: VMware
+> Languages:      Python | Go | PHP
+```
+
+---
+
+## 🧪 Lab Environment
+
+```diff
++ Dual Firewall Architecture (pfSense + MikroTik)
++ Network Segmentation + DMZ
++ Site-to-Site VPN
++ SIEM (Wazuh) + Alerting (Telegram / Email)
++ Controlled attack simulations
+```
+
+---
+
+## 🚨 Featured Projects
 
 ### 🧨 Android Malware Lab
-🔗 https://github.com/TU-USUARIO/laboratorio-apk-maliciosa-android
 
-- Creación de APK malicioso (msfvenom)
-- Reverse TCP con Meterpreter
-- Ejecución remota
-- Evasión de antivirus
+🔗 https://github.com/Adrian-Lopez-Olaria/laboratorio-apk-maliciosa-android
+
+> Reverse TCP, Meterpreter, AV evasion & mobile hardening
 
 ---
 
 ### 📞 SMS & Call Spoofing Investigation
-🔗 https://github.com/TU-USUARIO/sms-call-spoofing-investigation
 
-- Spoofing de SMS (smishing)
-- Caller ID spoofing
-- Ingeniería social
-- Análisis de VoIP
+🔗 https://github.com/Adrian-Lopez-Olaria/sms-call-spoofing-investigation
+
+> VoIP vulnerabilities, smishing & caller ID spoofing
 
 ---
 
 ### 🔍 IP Tracker Lab (PHP + Ngrok)
-🔗 https://github.com/TU-USUARIO/ip-tracker-php
 
-- Captura de IP y fingerprinting
-- Geolocalización
-- Redirección invisible
-- Simulación de phishing
+🔗 https://github.com/Adrian-Lopez-Olaria/ip-tracker-php
+
+> IP capture, fingerprinting & invisible redirection
+
+---
+
+### 🔐 WordPress Brute Force Lab
+
+🔗 https://github.com/Adrian-Lopez-Olaria/wordpress-ataque-de-fuerza-bruta
+
+> WPScan attack, user enumeration & hardening
 
 ---
 
 ### 📍 Python Phone Tracker
-🔗 https://github.com/TU-USUARIO/python-phone-tracker
 
-- Geolocalización de números
-- APIs externas (OpenCage)
-- Mapas interactivos
+🔗 https://github.com/Adrian-Lopez-Olaria/python-phone-tracker
 
----
-
-### 🔐 WordPress Brute Force Attack Lab
-🔗 https://github.com/TU-USUARIO/wordpress-ataque-de-fuerza-bruta
-
-- Enumeración de usuarios
-- Ataque con WPScan
-- Identificación de vulnerabilidades
-- Hardening de WordPress
+> Phone geolocation + API integration + interactive maps
 
 ---
 
-### 🖥️ Acronis Disk Management Guide
-🔗 https://github.com/TU-USUARIO/acronis-disk-management-guide
+## 🛠️ Additional Projects
 
-- Backup
-- Restauración
-- Clonado
-- Borrado seguro
+* 🖥️ Acronis Disk Management (Backup / Restore / Clone / Secure Wipe)
+* 🧩 SFTP as Network Drive (SSHFS-Win)
+* 🧵 Cables Encyclopedia (IT Physical Layer)
 
 ---
 
-### 🧩 Map SFTP as Network Drive
-🔗 https://github.com/TU-USUARIO/map-sftp-windows
+## 📚 Learning Projects
 
-- SSHFS-Win
-- Integración Windows
-- Uso real en entornos IT
-
----
-
-### 🧵 Cables Encyclopedia
-🔗 https://github.com/TU-USUARIO/cables-encyclopedia
-
-- Redes, fibra, datacenter
-- Vídeo, audio, energía
-- Infraestructura física IT
+* 🐍 MasterPython (Full course + project)
+* 🐹 Go - Primeros pasos (with testing)
+* 🐍 Python - Primeros pasos (validation + unittest)
 
 ---
 
-## 🧑‍💻 Proyectos de aprendizaje
+## 🎯 Goals
 
-### 🐍 MasterPython
-🔗 https://github.com/TU-USUARIO/master-python
-
-Curso completo de Python con:
-- Fundamentos
-- POO
-- Bases de datos
-- Proyecto práctico
+```diff
++ Offensive Security (Pentesting)
++ SIEM & Threat Detection
++ Network Security
++ Real-world threat analysis
+```
 
 ---
 
-### 🐹 Go - Primeros pasos
-🔗 https://github.com/TU-USUARIO/go-primeros-pasos
+## ⚠️ Legal Notice
 
-- Lógica básica en Go
-- Pruebas unitarias
-- Validación de datos
+All security-related projects were conducted in **controlled environments**,
+for **educational and research purposes only**, and with proper authorization.
 
 ---
 
-### 🐍 Python - Primeros pasos
-🔗 https://github.com/TU-USUARIO/python-primeros-pasos
+## 📫 Contact
 
-- Lógica básica
-- Validación de entradas
-- Testing con unittest
-
----
-
-## 🎯 Objetivo
-
-Especializarme en:
-
-- Ciberseguridad ofensiva (pentesting)
-- Monitorización y detección (SIEM)
-- Seguridad de redes
-- Análisis de amenazas reales
-
----
-
-## ⚠️ Nota legal
-
-Todos los proyectos de seguridad se han realizado en entornos controlados con fines educativos y con autorización.
-
----
-
-## 📫 Contacto
-
-- 💼 LinkedIn: (TU LINK)
-- 📧 Email: (TU EMAIL)
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrian-lópez-olaria-2b0575347">LinkedIn</a> •
+  <a href="mailto:adrianlpzolaria@gmail.com">Email</a>
+</p>
